@@ -6,3 +6,4 @@ print(c)
 
 print(a)
 print(b)
+print(a,b,c)
